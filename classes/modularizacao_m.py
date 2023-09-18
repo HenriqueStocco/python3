@@ -1,1 +1,0 @@
-print('Este módulo chama-se', __name__)

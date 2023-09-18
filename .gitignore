@@ -1,0 +1,8 @@
+.vscode
+basic
+README.md
+venv
+.venv
+.env
+env
+requirements.txt
